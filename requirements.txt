@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.11.0          # Telegram bot API
+chromadb==0.3.21                  # ChromaDB client library for document management
+sentence-transformers==2.2.2      # Sentence embedding model
+PyPDF2==3.0.0                     # PDF handling library
